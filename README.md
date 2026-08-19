@@ -1,3 +1,4 @@
 # Practice-Projects-26
 
-- <h2> <a href = "https://github.com/MelaniMag/practice-projects-26/tree/main/birthday-website#readme"> Birthday Website </a></h2>
+- <p> <a href = "https://github.com/MelaniMag/practice-projects-26/tree/main/birthday-website#readme"> Birthday Website </a></p>
+- <p> <a href = "https://github.com/MelaniMag/practice-projects-26/tree/main/counter-app#readme"> Counter App </a></p>
